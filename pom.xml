@@ -27,8 +27,8 @@
   </build>
    <distributionManagement>
         <repository>
-            <id>deployment</id>
-            <name>Internal Releases</name>
+            <id>My_Repo</id>
+            <name>Test_aimco</name>
             <url>https://nexus-ci.apps.aimco.com/nexus/content/repositories/My_Repo/</url>
         </repository>
             </distributionManagement>
