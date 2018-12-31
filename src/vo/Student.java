@@ -21,9 +21,7 @@ public class Student {
 		this.studentId = studentId;
 	}
 
-	public String getStudentName() {
-		return studentName;
-	}
+	
 
 	public void setStudentName(String studentName) {
 		this.studentName = studentName;
