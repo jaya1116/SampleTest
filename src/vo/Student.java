@@ -1,5 +1,7 @@
 package vo;
 
+
+
 public class Student {
 	private int studentId;
 	private String studentName;
