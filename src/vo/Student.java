@@ -64,10 +64,6 @@ public class Student {
 		return yearPassed;
 	}
 
-	public void setYearPassed(String yearPassed) {
-		this.yearPassed = yearPassed;
-	}
-
-	
+		
 }
  
