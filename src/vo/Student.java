@@ -31,6 +31,9 @@ public class Student {
 		return studentAddr;
 	}
 
+	
+	
+	
 	public void setStudentAddr(String studentAddr) {
 		this.studentAddr = studentAddr;
 	}
