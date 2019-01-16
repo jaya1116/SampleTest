@@ -25,6 +25,9 @@ public class Student {
 		this.studentName = studentName;
 	}
 
+	public String getStudentAddr() {
+		return studentAddr;
+	}
 	
 	public void setStudentAddr(String studentAddr) {
 		this.studentAddr = studentAddr;
