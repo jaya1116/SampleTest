@@ -19,7 +19,9 @@ public class Student {
 		this.studentId = studentId;
 	}
 
-	
+	public String getStudentName() {
+		return studentName;
+	}
 
 	public void setStudentName(String studentName) {
 		this.studentName = studentName;
@@ -28,7 +30,7 @@ public class Student {
 	public String getStudentAddr() {
 		return studentAddr;
 	}
-	
+
 	public void setStudentAddr(String studentAddr) {
 		this.studentAddr = studentAddr;
 	}
