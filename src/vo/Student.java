@@ -1,9 +1,6 @@
 package vo;
 /*comment to show*/
 public class Student { 
-	
-
-	
 	private int studentId;
 	private String studentName;
 	private String studentAddr;
